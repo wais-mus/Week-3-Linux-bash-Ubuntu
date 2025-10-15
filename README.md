@@ -1,8 +1,8 @@
-Bash Scripts for DevOps Practice
+# Bash Scripts for DevOps Practice
 This repo contains Bash scripts and Linux command-line exercises as part of my DevOps learning journey.
 
-Week 3 Tasks
-1. Learning commands
+## Week 3 Tasks
+### 1. Learning commands
 ✔️ Commands Practiced
 cd
 ls -al
@@ -14,7 +14,7 @@ backup.sh: Placeholder for automated backup
 monitor.sh: Placeholder for system monitoring
 command_practice.txt: Descriptions and examples of common Linux commands
 
-🧰 2. Bash Scripting Basics (Estimated: 2 hrs)
+### 🧰 2. Bash Scripting Basics (Estimated: 2 hrs)
 📌 Learn:
 What a bash script is, how to write and execute one
 Bash variables, conditionals, and loops
@@ -37,7 +37,8 @@ bash
 Copy code
 ./disk_report.sh
 Add it to your Git repo.
-🖥️ 3. Environment Setup (Estimated: 0.5–1 hr)
+
+### 🖥️ 3. Environment Setup (Estimated: 0.5–1 hr)
 Choose One: Install Ubuntu in VirtualBox
 
 Enable WSL (Windows Subsystem for Linux)
@@ -46,7 +47,7 @@ Enable WSL (Windows Subsystem for Linux)
 
 Practice navigating files and running bash scripts
 
-🔨 4. Script Writing Project (Estimated: 1–2 hrs)
+### 🔨 4. Script Writing Project (Estimated: 1–2 hrs)
 📁 Create a GitHub Repo: bash-scripts
 
 Write 3–5 Useful Bash Scripts: Script Purpose backup.sh Back up a directory to a .tar.gz file monitor.sh Monitor CPU and memory usage disk_report.sh Report disk usage hello.sh Basic “Hello, $USER” script uptime_check.sh Log system uptime and user sessions
